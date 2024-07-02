@@ -44,4 +44,17 @@ Gene > bzip arabidopsis > NCBI Reference Sequences (RefSeq) > NP_199756.1 (link)
 
 
 Now we can use BLAST to find a similar sequence to the accession number:
-- 
+- BLAST > Protein BLAST >  NP_199756.1 (search) > Bread  Wheat (organism search) > show results in new window > BLAST (button) > download FASTA (completesequence) 
+
+Downloading a sequence from GenBank:
+- go to NCBI Reference Sequences (RefSeq)
+- click link preceding accession number, this is its mRNA accession number
+- NM_124322.3 > (this is the GenBank report) > FASTA (change file format) > Send to > File > Complete Record > Create File (button)
+- you can download the mRNA, protein, and genomic sequences and save them into the same file. (I didn't do this). 
+
+FASTA and GenBank:
+- these are file formats
+- FASTA: Sequence file
+- GenBank: Report file
+
+
