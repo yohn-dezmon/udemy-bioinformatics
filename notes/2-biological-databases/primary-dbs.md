@@ -26,5 +26,22 @@ https://www.ncbi.nlm.nih.gov/:
 - PubMed, GenBank, BLAST
 
 
+Retrieving an accession number from GenBank:
+- go to GenBank db on the NCBI website
+- use the search bar to find a specific gene or organism
+- click on result to view the details of the sequence
+- copy the accession number of the sequence 
+- Locus tag can be considered an accession number
+- Gene ID can be an accession number
+- accession number exists at the level of protein and mRNA
+    - this is in the General protein information (!!) within the Gene db page.
+    - unique identifier for this protein within NCBI db.
+    - 
+
+Nucleotide > bzip1 > bzip arabidopsis
+Gene > bzip arabidopsis > NP_199756.1 
+Gene > bzip arabidopsis > NCBI Reference Sequences (RefSeq) > NP_199756.1 (link) > FASTA (link) >  
 
 
+Now we can use BLAST to find a similar sequence to the accession number:
+- 
