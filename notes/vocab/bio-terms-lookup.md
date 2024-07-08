@@ -1,3 +1,16 @@
+Amino Acid:
+- building block of proteins
+- a central carbon atom bound to 4 groups
+    - amino group (-NH2)
+    - Carboxyl group (-COOH)
+    - hydrogen atom (-H)
+    - R group (side chain) 
+- amino acids are obtained via eating food that has protein
+- protein is broken down into amino acids, which are absorbed into the blood stream
+- 
+
+Nucleic Acid:
+
 Nucleotide:
 - Phosphate group, 5-C sugar (pentose) group, and a nitrogenous base (ACTGU)
 
